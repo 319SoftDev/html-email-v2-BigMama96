@@ -9,3 +9,11 @@ After lots of planning and prepping, then you can begin to code your html email.
 All of this will be done on GitHub classroom, but you will also email me your final email.
 
 This is due next Tuesday (15/10)!
+
+
+
+
+
+
+
+🥇Edward was here
