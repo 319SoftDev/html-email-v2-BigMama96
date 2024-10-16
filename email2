@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>T-Shirt Design Competition</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .header, .footer {
+            background: linear-gradient(90deg, #568fda, #3e8e41);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .body {
+            padding: 30px;
+            background-color: #ffffff;
+            color: #060707;
+            font-size: 100%;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+
+        h2, h3 {
+            color: #333;
+            margin-bottom: 15px;
+        }
+
+        ul {
+            margin-left: 20px;
+            padding-left: 10px;
+        }
+
+        a {
+            color: #058ddb;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-decoration: underline;
+            color: #2e8b2e;
+        }
+
+        .cam {
+            margin: 10px;
+            width: 100%;
+            max-width: 410px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+<table role="presentation">
+    <tr>
+        <td class="header">
+            <h1>🎉 ATTENTION ALL CREATIVE DESIGNERS! 🎉<br>
+            CALLING ALL STUDENTS AT FASHION INDUSTRIES!</h1>
+        </td>
+    </tr>
+    <tr>
+        <td class="body">
+            <h2>Calling All Creative Designers!</h2>
+            <p>Teen Choice is excited to announce a T-Shirt Design Competition and we want YOU to bring your artistic talents to life!</p>
+            <p>Teen Choice is a program dedicated to helping teens grow into healthy young adults. Our program offers group sessions and activities that help teens delay the onset of sexual activity, reduce the incidence of unintended pregnancy and sexually transmitted infections, encourage the development of mature decision-making skills, and help parents and teens communicate about these important issues.</p>
+            <p>Now, we need your help to create a T-Shirt that reflects the essence of Teen Choice, and we know you’ve got what it takes! 🌟</p>
+            <h3>🎨 Here’s your chance to win:</h3>
+            <ul>
+                <li>✨ A GIFT CARD</li>
+                <li>💰 1200 Fashion Dollars 💰</li>
+            </ul>
+            <h3>What we’re looking for:</h3>
+            <img class="cam" src="https://fashionista.com/.image/t_share/MjA3NTQ5MTA5NDc5OTQxNTc1/hsfi-fashion-show.jpg" alt="hsfi-fashion-show">
+            <ul>
+                <li>A captivating design that incorporates our logo. (view linked folders below)</li>
+                <li>A creative and bold reflection of Teen Choice’s mission and values!</li>
+            </ul>
+            <h3>📅 Submit your design by: <strong>October 28, 2024</strong></h3>
+            <h3>How to enter:</h3>
+            <ul>
+                <li>Submit your design to our office in room 148, or email it to <a href="mailto:t33nchoice@gmail.com">t33nchoice@gmail.com</a>.</li>
+                <li>Here is a link to the logo files: <a href="https://drive.google.com/drive/folders/1KyrvbvS6dDhQqO1hHXgIIO2y38mF2VXZ?usp=sharing">Logo Files</a></li>
+            </ul>
+            <p>Don't miss this opportunity to show off your design skills and make an impact! We can’t wait to see your creativity shine! 💡 Good luck, designers!</p>
+        </td>
+    </tr>
+    <tr>
+        <td class="footer">
+            &copy; Daryl Blank<br>
+            HSFI
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>
